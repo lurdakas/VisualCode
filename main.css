@@ -1,0 +1,30 @@
+#left{
+    display: inline-block;
+        width: 48%;
+        background-color: darkgrey;
+        border: 2px solid black;
+        }
+
+#right {
+
+        border: 3px dashed black;
+        display: inline-block;
+        width: 48%;
+        background-color: darkmagenta;
+    }
+
+
+#leftP {
+
+    color: purple;
+        font-weight: 900;
+        font-style: oblique;
+    }
+
+#rightP {
+
+    color: grey;
+        font-weight: 100;
+        font-style: italic;
+    
+    }
