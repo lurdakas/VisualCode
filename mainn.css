@@ -1,0 +1,99 @@
+body{
+
+background-color: rgb(225,250,255);
+}
+
+#right{
+    display: flex;
+    width: 30px;
+    position: absolute;
+}
+#right > img{
+    margin-left: 550px;
+}
+
+#container {
+
+    margin-left: calc( (100% - 800px)/2);
+    margin: 100px;
+    padding: 50px;
+    width: 1000px;
+    text-align: center;
+    /* background-color: brown; */
+    display: inline-flex;
+    position: absolute;
+    
+}
+
+#container > *{
+    display: center;
+
+}
+.sides{
+ display: inline-block;
+
+}
+
+#leftt{
+    text-align: center;
+    width: 50px;
+    position: relative;
+
+
+}
+#Freepik{
+    font-size: 11px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 690px;
+    font-weight: 100;
+
+}
+
+#t404{
+    font-size: 70px;
+    font-weight: 900px;
+    color: rgb(81,58,198);
+    margin-top: 70px;
+    text-align: center;
+    line-height: 20px;
+
+}
+#error{
+
+    font-size: 65px;
+    font-weight: 900px;
+    color: rgb(81,58,198);
+    margin-top: 30px;
+    text-align: center;
+    line-height: 20px;
+}
+
+#acontainer{
+    margin-top: 50px;
+}
+#t1{
+
+    color: rgb(147,153,186);
+    font-size: 15px;
+    line-height: 90px;
+    white-space: pre;
+    text-overflow: ellipsis;
+    position: relative;
+    
+
+
+
+
+
+
+}
+
+#acontainer > a{
+
+    background-color: rgb(92,205,215);
+    font-size: 15px;
+    padding: 15px;
+
+}
+
